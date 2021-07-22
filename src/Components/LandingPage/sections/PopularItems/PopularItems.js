@@ -3,6 +3,7 @@ import image from "../../../../images/1.jpg";
 import { Link } from "react-router-dom";
 import { Row, Col } from "antd";
 function PopularItems() {
+  //임시로 만든 상품 이미지
   const images = [image, image, image, image, image];
   //서버에서  상품 정보를 받아오는 코드
   const renderItems =

@@ -3,6 +3,7 @@ import { Row, Col } from "antd";
 import image from "../../../../images/1.jpg";
 import { Link } from "react-router-dom";
 function NewItems() {
+  //임시로 만든 상품 이미지
   const images = [image, image, image, image, image];
   //서버에서  상품 정보를 받아오는 코드
   const renderItems =
@@ -34,7 +35,7 @@ function NewItems() {
     <div>
       <div style={{ display: "flex", justifyContent: "space-between" }}>
         <h2>신상품</h2>
-        <Link>더보기</Link>
+        <Link to="#">더보기</Link>
       </div>
       <Row gutter={[16, 16]}>{renderItems}</Row>
     </div>
