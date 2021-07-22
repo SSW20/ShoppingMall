@@ -19,17 +19,19 @@ function Menu() {
             className="navbar-icons"
             onClick={showSearchbar}
           />
-          <Link to="#" className="navbar-title">
-            <h1>쇼핑몰</h1>
+          <Link to="#">
+            <h1 className="navbar-title">쇼핑몰</h1>
           </Link>
           <FaIcons.FaBars className="navbar-icons" onClick={showSidebar} />
         </div>
+
         <div className={searchbar ? "nav-search active" : "nav-search"}>
           <form>
             <input type="text" />
             <button>검색</button>
           </form>
         </div>
+
         <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
           <ul className="nav-menu-items" onClick={showSidebar}>
             <li className="navbar-toggle">
@@ -44,6 +46,11 @@ function Menu() {
                 </li>
               );
             })}
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
             {SideBarUser.map((item, index) => {
               return (
                 <li key={index} className={item.cName}>

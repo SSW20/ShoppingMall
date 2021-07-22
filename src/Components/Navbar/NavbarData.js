@@ -3,7 +3,7 @@ import * as AiIcons from "react-icons/ai";
 export const SidebarData = [
   {
     title: "홈",
-    path: "/Home",
+    path: "/LandingPage",
     cName: "nav-text",
   },
   {
