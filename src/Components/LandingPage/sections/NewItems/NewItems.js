@@ -2,6 +2,7 @@ import React from "react";
 import { Row, Col } from "antd";
 import image from "../../../../images/1.jpg";
 import { Link } from "react-router-dom";
+
 function NewItems() {
   //임시로 만든 상품 이미지
   const images = [image, image, image, image, image];

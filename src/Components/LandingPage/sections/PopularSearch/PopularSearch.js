@@ -6,18 +6,14 @@ function PopularSearch() {
     <div>
       <h3>인기검색어 #1</h3>
       <br />
-      <br />
       <hr />
       <h3>인기검색어 #2</h3>
-      <br />
       <br />
       <hr />
       <h3>인기검색어 #3</h3>
       <br />
-      <br />
       <hr />
       <h3>인기검색어 #4</h3>
-      <br />
       <br />
       <hr />
       <h3>인기검색어 #5</h3>

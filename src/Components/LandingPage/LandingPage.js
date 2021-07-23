@@ -2,7 +2,7 @@ import React from "react";
 import EventSlider from "./sections/EventSlider/EventSlider";
 import NewItems from "./sections/NewItems/NewItems";
 import PopularItems from "./sections/PopularItems/PopularItems";
-import PopularSearch from "./sections/PopularSearch/PopularSearch1";
+import PopularSearch from "./sections/PopularSearch/PopularSearch";
 function LandingPage() {
   return (
     <div>
@@ -12,11 +12,11 @@ function LandingPage() {
         {/*홈화면의 신상품이 계시되는 곳 */}
         <NewItems />
         <br />
-        <br />
+
         <hr />
         {/* 인기상품 */}
         <PopularItems />
-        <br />
+
         <br />
         <hr />
         {/* 인기 검색어 1 2 3 4 5 */}

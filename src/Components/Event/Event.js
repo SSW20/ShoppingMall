@@ -19,8 +19,8 @@ function Event() {
       <Col key={index} lg={8} xs={24}>
         {/* 이벤트 하나의 ID를 더해  링크를 만든다  */}
         <Link to="#">
-          <div style={{ border: "3px solid" }}>
-            <img src={item} alt={"이벤트"} style={{ width: "100%" }}></img>
+          <div>
+            <img src={item} alt={"이벤트"} style={{ width: "90%" }}></img>
           </div>
         </Link>
         <h3>이벤트 제목 {index + 1}</h3>
@@ -28,20 +28,16 @@ function Event() {
     );
   });
   return (
-    <div style={{ margin: "20px", border: "10px solid", borderRadius: "30px" }}>
-      <div style={{ width: "90%", margin: "3rem auto" }}>
-        <h1
-          style={{
-            color: "red",
-            fontWeight: "bold",
-            fontSize: "40px",
-            fontStyle: "italic",
-          }}
-        >
-          이벤트
-        </h1>
-        <Row gutter={[16, 16]}>{renderEvents}</Row>
-      </div>
+    <div style={{ width: "80%", margin: "3rem auto", textAlign: "center" }}>
+      <h1
+        style={{
+          fontWeight: "bold",
+          fontSize: "40px",
+        }}
+      >
+        EVENT
+      </h1>
+      <Row gutter={[16, 16]}>{renderEvents}</Row>
     </div>
   );
 }

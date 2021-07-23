@@ -19,7 +19,7 @@ function Menu() {
             className="navbar-icons"
             onClick={showSearchbar}
           />
-          <Link to="#">
+          <Link to="/ShoppingMall">
             <h1 className="navbar-title">쇼핑몰</h1>
           </Link>
           <FaIcons.FaBars className="navbar-icons" onClick={showSidebar} />

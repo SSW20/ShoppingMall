@@ -14,22 +14,22 @@ function EventSlider() {
     <Carousel autoplay>
       <Link to="#">
         <div>
-          <h3 style={contentStyle}>1</h3>
+          <h3 style={contentStyle}>이벤트 게시1</h3>
         </div>
       </Link>
       <Link to="#">
         <div>
-          <h3 style={contentStyle}>2</h3>
+          <h3 style={contentStyle}>이벤트 게시2</h3>
         </div>
       </Link>
       <Link to="#">
         <div>
-          <h3 style={contentStyle}>3</h3>
+          <h3 style={contentStyle}>이벤트 게시3</h3>
         </div>
       </Link>
       <Link to="#">
         <div>
-          <h3 style={contentStyle}>4</h3>
+          <h3 style={contentStyle}>이벤트 게시4</h3>
         </div>
       </Link>
     </Carousel>
