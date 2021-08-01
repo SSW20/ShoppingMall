@@ -1,0 +1,48 @@
+.BasketAddress-container {
+  width: 85%;
+  margin: 3rem auto;
+  border: 1px solid;
+}
+.BasketAddress-Radio {
+  margin-left: 10px;
+}
+.BasketAddress-Radio input {
+  margin-right: 10px;
+}
+.BasketAddress-Radio label {
+  margin-right: 150px;
+  font-size: larger;
+}
+
+.BasketAddress-Address {
+  margin: 3rem auto;
+}
+.BasketAddress-Address label {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: larger;
+}
+.BasketAddress-Purchase {
+  margin-left: 10px;
+  font-size: larger;
+}
+.BasketAddress-Purchase label {
+  margin-right: 10px;
+}
+.BasketAddress-Purchase select {
+  text-align-last: center;
+  text-align: center;
+}
+.BasketAddress-Button {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px;
+}
+.BasketAddress-Button button {
+  width: 200px;
+  height: 40px;
+  background-color: #3e74dd;
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+}

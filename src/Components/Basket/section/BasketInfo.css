@@ -1,0 +1,18 @@
+.BaksetInfo-table,
+td,
+th {
+  border: 1px solid #3e74dd;
+}
+.BaksetInfo-table {
+  width: 85%;
+  margin: 2rem auto;
+  text-align: center;
+}
+.BasketInfo-edge {
+  background-color: #3e74dd;
+}
+.BasketInfo-edge td {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
