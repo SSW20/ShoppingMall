@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ShoppingMall/static/css/main.0b004402.chunk.css",
-    "main.js": "/ShoppingMall/static/js/main.435a27ca.chunk.js",
-    "main.js.map": "/ShoppingMall/static/js/main.435a27ca.chunk.js.map",
+    "main.css": "/ShoppingMall/static/css/main.a1cb522d.chunk.css",
+    "main.js": "/ShoppingMall/static/js/main.48ab66b2.chunk.js",
+    "main.js.map": "/ShoppingMall/static/js/main.48ab66b2.chunk.js.map",
     "runtime-main.js": "/ShoppingMall/static/js/runtime-main.7e2cba1c.js",
     "runtime-main.js.map": "/ShoppingMall/static/js/runtime-main.7e2cba1c.js.map",
     "static/css/2.7572b43f.chunk.css": "/ShoppingMall/static/css/2.7572b43f.chunk.css",
-    "static/js/2.a6f8d86f.chunk.js": "/ShoppingMall/static/js/2.a6f8d86f.chunk.js",
-    "static/js/2.a6f8d86f.chunk.js.map": "/ShoppingMall/static/js/2.a6f8d86f.chunk.js.map",
+    "static/js/2.5147c0ea.chunk.js": "/ShoppingMall/static/js/2.5147c0ea.chunk.js",
+    "static/js/2.5147c0ea.chunk.js.map": "/ShoppingMall/static/js/2.5147c0ea.chunk.js.map",
     "index.html": "/ShoppingMall/index.html",
     "static/css/2.7572b43f.chunk.css.map": "/ShoppingMall/static/css/2.7572b43f.chunk.css.map",
-    "static/css/main.0b004402.chunk.css.map": "/ShoppingMall/static/css/main.0b004402.chunk.css.map",
-    "static/js/2.a6f8d86f.chunk.js.LICENSE.txt": "/ShoppingMall/static/js/2.a6f8d86f.chunk.js.LICENSE.txt",
+    "static/css/main.a1cb522d.chunk.css.map": "/ShoppingMall/static/css/main.a1cb522d.chunk.css.map",
+    "static/js/2.5147c0ea.chunk.js.LICENSE.txt": "/ShoppingMall/static/js/2.5147c0ea.chunk.js.LICENSE.txt",
     "static/media/test.001606e3.jpg": "/ShoppingMall/static/media/test.001606e3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e2cba1c.js",
     "static/css/2.7572b43f.chunk.css",
-    "static/js/2.a6f8d86f.chunk.js",
-    "static/css/main.0b004402.chunk.css",
-    "static/js/main.435a27ca.chunk.js"
+    "static/js/2.5147c0ea.chunk.js",
+    "static/css/main.a1cb522d.chunk.css",
+    "static/js/main.48ab66b2.chunk.js"
   ]
 }
